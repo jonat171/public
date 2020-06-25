@@ -1,9 +1,9 @@
 package main
 
 import (
-	student "student"
+	student "github.com/01-edu/piscine-go"
 
-	"lib"
+	"github.com/01-edu/public/go/tests/lib"
 )
 
 // Helper function used in the test for checking the function Enigma()

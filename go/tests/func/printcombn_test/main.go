@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	student "student"
+	student "github.com/01-edu/piscine-go"
 
-	"lib"
+	"github.com/01-edu/public/go/tests/lib"
 )
 
 func show(n int, table [9]int, tmax [9]int) {

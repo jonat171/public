@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	student "student"
+	student "github.com/01-edu/piscine-go"
 
-	"func/correct"
+	"github.com/01-edu/public/go/tests/func/correct"
 )
 
 func main() {

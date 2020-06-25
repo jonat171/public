@@ -1,11 +1,11 @@
 package main
 
 import (
-	student "student"
+	student "github.com/01-edu/piscine-go"
 
-	"func/correct"
+	"github.com/01-edu/public/go/tests/func/correct"
 
-	"lib"
+	"github.com/01-edu/public/go/tests/lib"
 )
 
 func parentListInsert(root *student.TreeNode) string {

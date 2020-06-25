@@ -4,9 +4,9 @@ import (
 	"strings"
 	"unicode"
 
-	student "student"
+	student "github.com/01-edu/piscine-go"
 
-	"lib"
+	"github.com/01-edu/public/go/tests/lib"
 )
 
 func capitalize(s string) string {

@@ -3,11 +3,9 @@ package main
 import (
 	"strconv"
 
-	student "student"
-
-	"func/correct"
-
-	"lib"
+	student "github.com/01-edu/piscine-go"
+	"github.com/01-edu/public/go/tests/func/correct"
+	"github.com/01-edu/public/go/tests/lib"
 )
 
 type Node6 = student.NodeL

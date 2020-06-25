@@ -5,9 +5,9 @@ import (
 	"sort"
 	"strings"
 
-	student "student"
+	student "github.com/01-edu/piscine-go"
 
-	"lib"
+	"github.com/01-edu/public/go/tests/lib"
 )
 
 func advancedSortWordArr(a []string, f func(a, b string) int) {

@@ -3,9 +3,9 @@ package main
 import (
 	"math"
 
-	student "student"
+	student "github.com/01-edu/piscine-go"
 
-	"lib"
+	"github.com/01-edu/public/go/tests/lib"
 )
 
 func iterativePower(nb int, power int) int {

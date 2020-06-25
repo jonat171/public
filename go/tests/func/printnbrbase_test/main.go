@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	student "student"
+	student "github.com/01-edu/piscine-go"
 
-	"base"
-	"lib"
+	"github.com/01-edu/public/go/tests/base"
+	"github.com/01-edu/public/go/tests/lib"
 )
 
 func printNbrBase(n int, b string) {
