@@ -3,11 +3,11 @@ package util
 import (
 	"fmt"
 
-	util2 "../utilDepth2"
+	"../utildepth2"
 )
 
 func LenWrapperU(ss []string) int {
-	return util2.LenWrapper(ss)
+	return utildepth2.LenWrapper(ss)
 }
 
 func NotUsed() {
